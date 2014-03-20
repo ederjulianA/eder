@@ -1,0 +1,24 @@
+div.contacto {
+	background-color: #3e799e;
+	padding-bottom: 25px;
+}
+div.twitter img, div.twitter a {
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+}
+div.twitter img {
+	border-radius: 50%;
+}
+div.twitter a {
+	color: #fff;
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: none;
+}
+h2{
+	color: #f2a15d;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}

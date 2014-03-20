@@ -1,0 +1,16 @@
+.json h2{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+
+}
+.json p{
+	font-size: 18px;
+	padding: 5px;
+}
+
+.json input, .json button {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 5px;
+}

@@ -1,0 +1,128 @@
+*{
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+body { }
+
+footer{
+	background-image: url(../img/bg1.png);
+	color: #fff;
+	font-size: 30px;
+	margin-bottom: 0;
+	padding:10px;
+	text-align: center;
+}
+h1{
+	color: #000;
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+}
+
+header {
+	background-color: #100D0D ;
+	max-width: 100%;
+	/*position: fixed;*/
+	width: 100%;
+}
+header img {
+	padding: 5px;
+}
+header img, header nav{
+	display: inline-block;
+	vertical-align: middle;
+
+	text-align: center;
+
+}
+img {
+	max-width: 100%;
+}
+nav{
+	margin-left: 20%;
+}
+nav ul li {
+	display: inline-block;
+	list-style: none;
+}
+nav ul li a {
+	font-size: 20px;
+	color: #58A7CB;
+	padding:10px;
+	
+}
+nav ul li a:hover{
+	color: #68C8D5;
+	text-decoration: none;
+}
+.principal{
+	background-color: #6ED4F4;
+	max-width: 100%;
+	padding-bottom: 50px;
+	width: 100%;
+}
+.contactoBTN{
+	margin: 0 auto;
+	
+	text-align: center;
+}
+.masInfo{
+	margin-top: 75px;
+	max-width: 100%;
+	width: 100%;
+}
+.masInfo h2{
+	font-size: 25px;
+	font-weight: bold;
+	color: #F16137;
+}
+.masInfo p strong {
+	color: #000;
+	font-weight: bold;
+}
+
+
+.mensaje{
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 10px;
+
+}
+.Pinfo{
+	font-size: 20px;
+	padding: 15px;
+}
+.podemosA{
+	color: #C12828;
+	font-size: 18px;
+}
+.quote{
+	background-color: #242323;
+	border-radius: 10px;
+	color: #fff;
+	text-align: center;
+}
+.quote p {
+	padding: 30px;
+	font-style: oblique;
+	font-size: 20px;
+}
+.tecnologias{
+	background-color: #D2D0D0;
+
+	margin-top: -20px;
+	max-width: 100%;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+}
+.tecnologias h2{
+	color: #000;
+	font-size: 20px;
+	font-weight: bold;
+}
+.Steve{
+	color: #E74631;
+}
